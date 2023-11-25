@@ -107,6 +107,7 @@ dist
 # Script Kit
 kenvs
 .scripts
+.widgets
 cache
 tmp
 db
